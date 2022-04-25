@@ -1,0 +1,1 @@
+[{"stmt":"SELECT * FROM categories;","header":["id","name","description","image"],"rows":[["1","homme","<div>vetement home</div>","92380acfdd7459ae9e9cfe93cae61b52ef59ef5b.jpg"]]}]
